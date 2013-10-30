@@ -5,7 +5,8 @@
   "author": "Forrest L Norvell <ogd@aoaioxxysz.net>",
   "contributors": [
     "Tim Caswell <tim@creationix.com>",
-    "Forrest L Norvell <ogd@aoaioxxysz.net>"
+    "Forrest L Norvell <ogd@aoaioxxysz.net>",
+    "Jacob Groundwater <groundwater@gmail.com"
   ],
   "main": "index.js",
   "scripts": {
