@@ -49,7 +49,6 @@ returned by `listener()`.
 Returns a constructed `AsyncListener` object and immediately adds it to
 the listening queue.
 
-
 ## removeAsyncListener(asyncListener)
 
 Removes the `asyncListener` from the listening queue.
