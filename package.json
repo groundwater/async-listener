@@ -10,7 +10,7 @@
   ],
   "main": "index.js",
   "scripts": {
-    "test": "node -v"
+    "test": "sleep 60"
   },
   "repository": {
     "type": "git",
